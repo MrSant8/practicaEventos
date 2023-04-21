@@ -1,4 +1,4 @@
-# practicaEventos
+# Practica Eventos PHP
 
 Este proyecto es un sistema de gestión de eventos con Laravel,permite a los usuarios registrarse, iniciar sesión. Crear, editar y eliminar eventos.
 
